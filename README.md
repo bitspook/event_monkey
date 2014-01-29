@@ -11,4 +11,4 @@ Those guys have made some websites for valentines day, and I have made some with
 
 ## Quick Documentation
 
-I would have written the documentation but I don't think anybody else gonna need this system. I am putting it here to because this kinda inactive Github account is haunting me in dreams.  
+I would have written the documentation but I don't think anybody else gonna use this system. I am putting it here because this inactive Github account is haunting me in dreams.  
